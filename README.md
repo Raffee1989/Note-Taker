@@ -15,7 +15,10 @@ AS A user, I want to be able to write and save notes
 
 * SO THAT I can organize my thoughts and keep track of tasks I need to complete.
 
+## How to use it;
+Install all the dependencies by running `npm i` in the terminal and then run `node server.js` in order to run the app. 
+
 ## Repos
 * [GitHub Profile](https://github.com/raffee1989)
 * [GitHub Repo](https://github.com/Raffee1989/Note-Taker)
-* [HeroKu App]()
+* [Heroku App](https://raffeenotetaker.herokuapp.com/)
